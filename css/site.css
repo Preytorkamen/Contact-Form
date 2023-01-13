@@ -1,0 +1,11 @@
+.titleBar {
+    text-align:center;
+}
+
+body {
+    background-image: url(/img/BackgroundImage.jpg);
+}
+
+h1 {
+    color:white;
+}
