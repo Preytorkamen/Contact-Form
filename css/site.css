@@ -1,5 +1,11 @@
 body {
-    background-image: url(/img/BackgroundImage.jpg);
+    background-image: url('/img/tilingBG.png');
+    background-size: 50vw;
+}
+
+img {
+    max-width:100%;
+    height:auto;
 }
 
 h1 {
@@ -8,4 +14,8 @@ h1 {
 
 .submitButton {
     margin-bottom:8px;
+}
+
+.contactForm {
+    max-width:90vw;
 }
